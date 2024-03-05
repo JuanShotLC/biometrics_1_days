@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "C:/Desarrollos/100_days/biometrics_1_days/build/windows/_deps/nuget-subbuild"
+}
